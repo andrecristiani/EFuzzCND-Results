@@ -24,7 +24,7 @@
 
 ![alt text](https://github.com/andrecristiani/EFuzzCND-Results/blob/main/Graphs/rbf-ecsminer-5000.png?raw=true)
 
-![alt text](https://github.com/andrecristiani/EFuzzCND-Results/blob/main/Graphs/rbf-ecsminer-10000.png?raw=true)
+![alt text](https://github.com/andrecristiani/EFuzzCND-Results/blob/main/Graphs/rbf-ecsminer-results-10000.txt.png?raw=true)
 
 
 ![alt text](https://github.com/andrecristiani/EFuzzCND-Results/blob/main/Graphs/synedc-efuzzcnd.png?raw=true)
