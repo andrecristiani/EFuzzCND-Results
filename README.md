@@ -31,12 +31,12 @@
 
 ![alt text](https://github.com/andrecristiani/EFuzzCND-Results/blob/main/Graphs/synedc-efuzzcnd-5000.png?raw=true)
 
-![alt text](https://github.com/andrecristiani/EFuzzCND-Results/blob/main/Graphs/synedc-efuzzcnd-10000.png.png?raw=true)
+![alt text](https://github.com/andrecristiani/EFuzzCND-Results/blob/main/Graphs/synedc-efuzzcnd-10000-png.png?raw=true)
 
 
 ![alt text](https://github.com/andrecristiani/EFuzzCND-Results/blob/main/Graphs/synedc-ecsminer.png?raw=true)
 
-![alt text](https://github.com/andrecristiani/EFuzzCND-Results/blob/main/Graphs/synedc-ecsminer-5000.png.png?raw=true)
+![alt text](https://github.com/andrecristiani/EFuzzCND-Results/blob/main/Graphs/synedc-ecsminer-5000.png?raw=true)
 
 ![alt text](https://github.com/andrecristiani/EFuzzCND-Results/blob/main/Graphs/synedc-ecsminer-10000.png?raw=true)
 
